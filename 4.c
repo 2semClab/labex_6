@@ -7,7 +7,7 @@ int f=1;
 for(int i=n;i>=1;i--){
 	f=f*i;
 }
-printf("Factorail of %d = %d\n",n,f);
+printf("Factorial of %d = %d\n",n,f);
 
 return 0;
 }
